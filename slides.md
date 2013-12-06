@@ -1,11 +1,12 @@
-﻿<h1>
+<h1>
 <small class="fragment" data-fragment-index="1">Learning from</small><br/>
 CSS Best Practices<br/>
 <small class="fragment" data-fragment-index="2">failing</small>
 </h1>
 
 
-# Damals <!-- .slide: data-state="blackout" -->
+# Damals 
+<!-- .slide: data-state="blackout" -->
 
 
 ## '95: Warum CSS?
@@ -49,13 +50,17 @@ Note:
 - Tags/Klassen für wiederkehrende Inhalte
 
 
-# Funktioniert doch heute noch! <!-- .slide: data-state="invert" -->
-## ... bis es größer wird <!-- .element: class="fragment" -->
+# Funktioniert doch heute noch!
+<!-- .slide: data-state="invert" -->
+
+## ... bis es größer wird 
+<!-- .element: class="fragment" -->
 
 
 
-# 2005 <!-- .slide: data-state="blackout" -->
+# 2005
 ## Big sites
+<!-- .slide: data-state="blackout" -->
 
 
 ## Herausforderungen
@@ -93,8 +98,9 @@ Note:
 
 
 
-# 2010 <!-- .slide: data-state="blackout" -->
+# 2010
 ## Alles dynamisch
+<!-- .slide: data-state="blackout" -->
 
 
 ## Alles dynamisch
@@ -183,8 +189,10 @@ Note:
 ### Probleme
 - kann zu unnötigem Markup führen
 - Feintuning bleibt schwierig
-<br/><br/>
-```.form--compact__row__button--primary--wtf``` <!-- .element: class="fragment" -->
+
+```.form--compact__row__button--primary--wtf
+```
+<!-- .element: class="fragment" -->
 
 Note:
 
@@ -192,8 +200,9 @@ Note:
 
 
 
-# Lessons learned <!-- .slide: data-state="blackout" -->
+# Lessons learned
 ## Pick the cherries!
+<!-- .slide: data-state="blackout" -->
 
 Note:
 
@@ -214,24 +223,33 @@ Note:
 - Kompaktes CSS
 - Konsistentes Design ohne Langeweile
 - Wiederverwendbare Module
-- Klarheit im Code<br/>&nbsp;
-- *Wie wollen wir arbeiten?* <!-- .element: class="fragment" -->
+- Klarheit im Code
+
+<br/>
+*Wie wollen wir arbeiten?*
+<!-- .element: class="fragment" -->
 
 
 ## Wasserfall
 - Design final, dann Code
 - Klare Deadlines, Feature-Commitments
 - Keine verschwendete Arbeitszeit
-- Wenig Abstimmungsaufwand<br/>&nbsp;
-- *Ich hab meine Ruhe* <!-- .element: class="fragment" -->
+- Wenig Abstimmungsaufwand
+
+<br/>
+*Ich hab meine Ruhe* 
+<!-- .element: class="fragment" -->
 
 Note:
 
 - Ich muss mich nicht mit Kreativen hauen
 
 
-# Yeah!! <!-- .slide: data-state="invert" -->
-## Weihnachtsmann? <!-- .element: class="fragment" -->
+# Yeah!!
+<!-- .slide: data-state="invert" -->
+
+## Weihnachtsmann?
+<!-- .element: class="fragment" -->
 
 
  <!-- .slide: data-background="images/cheese-santa.jpg" data-background-size="cover" -->
@@ -250,12 +268,15 @@ Note:
 - Minimierte Missverständnisse
 
 
-# Intergalacto<br/>disciplinary!!! <!-- .slide: data-state="invert" -->
-## unde Sch... Code <!-- .element: class="fragment" -->
+# Intergalacto<br/>disciplinary!!!
+<!-- .slide: data-state="invert" -->
+
+## unde Sch... Code
+<!-- .element: class="fragment" -->
 
 
 
- <!-- .slide: data-background="images/santashit.png" data-background-size="cover" -->
+<!-- .slide: data-background="images/santashit.png" data-background-size="cover" -->
 
 Note:
 
@@ -297,48 +318,59 @@ Note:
 - Warum nicht zusammen erarbeiten?
 
 
-# iterativ <!-- .element: style="text-transform:none;font:italic normal normal 6em/1 Georgia,serif" -->
+# iterativ 
+<!-- .element: style="text-transform:none;font:italic normal normal 6em/1 Georgia,serif" -->
 <!-- .slide: data-state="blackout" -->
 
 
-# grob <!-- .element: style="font:normal normal bold 6em/1 Impact" --> 
+# grob 
+<!-- .element: style="font:normal normal bold 6em/1 Impact" --> 
 <!-- .slide: data-state="blackout" -->
 
 
-# fein <!-- .element: style="text-transform:none;font:normal normal normal 6em/1 'HelveticaNeue-Thin','Helvetica Neue Thin',sans-serif" -->
+# fein 
+<!-- .element: style="text-transform:none;font:normal normal normal 6em/1 'HelveticaNeue-Thin','Helvetica Neue Thin',sans-serif" -->
 <!-- .slide: data-state="blackout" -->
 
 
-# klein <!-- .element: style="text-transform:none;font:normal normal normal 1em/1 'Courier New',monospace;margin-top:7em" -->
+# klein 
+<!-- .element: style="text-transform:none;font:normal normal normal 1em/1 'Courier New',monospace;margin-top:7em" -->
 <!-- .slide: data-state="blackout" -->
 
 
-# gross <!-- .element: style="font:normal normal normal 9em/1 'Big Caslon',serif;margin:.3em -9em" -->
+# gross 
+<!-- .element: style="font:normal normal normal 9em/1 'Big Caslon',serif;margin:.3em -9em" -->
 <!-- .slide: data-state="blackout" -->
 
 
-# iterativ <!-- .element: style="text-transform:none;font:italic normal normal 6em/1 Georgia,serif" -->
+# iterativ 
+<!-- .element: style="text-transform:none;font:italic normal normal 6em/1 Georgia,serif" -->
 <!-- .slide: data-state="blackout" -->
 
 
-# grob <!-- .element: style="font:normal normal bold 6em/1 Impact" --> 
+# grob 
+<!-- .element: style="font:normal normal bold 6em/1 Impact" --> 
 <!-- .slide: data-state="blackout" -->
 
 
-# fein <!-- .element: style="text-transform:none;font:normal normal normal 6em/1 'HelveticaNeue-Thin','Helvetica Neue Thin',sans-serif" -->
+# fein 
+<!-- .element: style="text-transform:none;font:normal normal normal 6em/1 'HelveticaNeue-Thin','Helvetica Neue Thin',sans-serif" -->
 <!-- .slide: data-state="blackout" -->
 
 
-# klein <!-- .element: style="text-transform:none;font:normal normal normal 1em/1 'Courier New',monospace;margin-top:7em" -->
+# klein 
+<!-- .element: style="text-transform:none;font:normal normal normal 1em/1 'Courier New',monospace;margin-top:7em" -->
 <!-- .slide: data-state="blackout" -->
 
 
-# gross <!-- .element: style="font:normal normal normal 9em/1 'Big Caslon',serif;margin:.3em -9em" -->
+# gross 
+<!-- .element: style="font:normal normal normal 9em/1 'Big Caslon',serif;margin:.3em -9em" -->
 <!-- .slide: data-state="blackout" -->
 
 
 
-# Atomic Design <!-- .element: class="fragment" style="margin-top:1.5em;text-shadow:0 0 .2em #000" -->
+# Atomic Design 
+<!-- .element: class="fragment" style="margin-top:1.5em;text-shadow:0 0 .2em #000" -->
 <!-- .slide: data-background="images/radioactive-sign.jpg" data-background-size="cover" -->
 
 
@@ -362,8 +394,9 @@ Note:
 
 
 
-# #1 Basics <!-- .slide: data-state="blackout" -->
+# #1 Basics 
 ## Allgemein &rarr; speziell
+<!-- .slide: data-state="blackout" -->
 
 
 ## Helfer vorbereiten
@@ -398,13 +431,15 @@ Note:
 - js_foo als JS-Hooks, kein JS an universelle Klassen binden
 
 
-# &frac12; Styleguide <!-- .slide: data-state="invert" -->
+# &frac12; Styleguide 
 ## Grid, Farben, Typografie tunen
+<!-- .slide: data-state="invert" -->
 
 
 
-# #2 Module <!-- .slide: data-state="blackout" -->
+# #2 Module 
 ## flexibel & wiederverwendbar
+<!-- .slide: data-state="blackout" -->
 
 
 ## Modul
@@ -432,13 +467,15 @@ Note:
 - Modul: max. 2 Nesting-Levels tief
 
 
-# Projekt-Bootstrap <!-- .slide: data-state="invert" -->
+# Projekt-Bootstrap 
 ## 80% am Ziel, 20% Code!
+<!-- .slide: data-state="invert" -->
 
 
 
-# #3 Tuning <!-- .slide: data-state="blackout" -->
+# #3 Tuning 
 ## mit Präprozessor-Power
+<!-- .slide: data-state="blackout" -->
 
 
 ## Tuning
@@ -473,13 +510,15 @@ Note:
 - Nicht zu viel Kontext und Spezifität
 
 
-# Best of both worlds <!-- .slide: data-state="invert" -->
+# Best of both worlds 
 ## Modular und Feingetuned
+<!-- .slide: data-state="invert" -->
 
 
 
-# #4 Teamwork <!-- .slide: data-state="blackout" -->
+# #4 Teamwork 
 ## interdisziplinäre Arbeitsweise
+<!-- .slide: data-state="blackout" -->
 
 
 ## Vom Groben ...
@@ -503,10 +542,16 @@ Note:
 - Design/Code: Zusammen feintunen
 
 
-# Intergalacto<br/>disciplinary!!! <!-- .slide: data-state="invert" -->
-## und schöner Code! <!-- .element: class="fragment" -->
-## und geile UX!! <!-- .element: class="fragment" -->
+# Intergalacto<br/>disciplinary!!! 
+<!-- .slide: data-state="invert" -->
+
+## und schöner Code! 
+<!-- .element: class="fragment" -->
+
+## und geile UX!! 
+<!-- .element: class="fragment" -->
 
 
-# the end <!-- .element: style="text-transform:none;font:normal normal normal 1em/1 'Courier New';margin-top:7em" -->
+# the end 
+<!-- .element: style="text-transform:none;font:normal normal normal 1em/1 'Courier New';margin-top:7em" -->
 <!-- .slide: data-state="blackout" -->
