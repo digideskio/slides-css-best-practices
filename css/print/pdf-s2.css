@@ -19,7 +19,7 @@
 body {
 	font-size: 18pt;
 	width: 297mm;
-	height: 167mm;
+	height: 185.625mm;
 	margin: 0 auto !important;
 	border: 0;
 	padding: 0;
@@ -34,7 +34,7 @@ html {
 }
 
 @page {
-	size: 297mm 167mm;
+	size: 297mm 185.625mm;
 	margin: 0;
 }
 
@@ -123,7 +123,7 @@ ul, ol, div, p {
 	visibility: visible !important;
 	position: relative !important;
 	width: 100% !important;
-	height: 166.5mm !important;
+	height: 185mm !important;
 	min-height: 0 !important;
 	display: block !important;
 	overflow: hidden !important;
